@@ -53,7 +53,7 @@ What this does not do: no filter can fully stop a model from being influenced by
 You need [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone https://github.com/<your-user>/stats-analytics-mcp-server
+git clone https://github.com/Hamed-Ghaseminezhad/stats-analytics-mcp-server
 cd stats-analytics-mcp-server
 uv sync
 uv run python scripts/make_demo_db.py data/demo.db
